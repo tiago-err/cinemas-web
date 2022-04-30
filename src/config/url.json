@@ -1,0 +1,6 @@
+{
+    "GetAllMoviesPlaying": "https://cinemas.nos.pt/_layouts/15/ApplicationPages/CinemasHelperService.aspx/GetAllMoviesPlaying",
+    "GetGenres": "https://cinemas.nos.pt/_layouts/15/ApplicationPages/CinemasHelperService.aspx/GetGenres",
+    "GetMoviesPlayingInCinema": "https://cinemas.nos.pt/_layouts/15/ApplicationPages/CinemasHelperService.aspx/GetMoviesPlayingInCinema",
+    "GetCinemas": "https://cinemas.nos.pt/_layouts/15/ApplicationPages/CinemasHelperService.aspx/GetCinemas"
+}
